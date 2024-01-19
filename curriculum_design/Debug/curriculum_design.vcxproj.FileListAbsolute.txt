@@ -1,0 +1,4 @@
+C:\Users\86156\Desktop\编程\C\VS_c\curriculum_design\Debug\curriculum_design.exe
+C:\Users\86156\Desktop\编程文件\C\VS_c\curriculum_design\Debug\curriculum_design.exe
+F:\curriculum_design\Debug\curriculum_design.exe
+C:\Users\86156\Desktop\编程文件\C\VS_c\curriculum_design\curriculum_design\Debug\curriculum_design.exe

@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\86156\Desktop\编程文件\C\VS_c\curriculum_design\main.c(3453,19): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Users\86156\Desktop\编程文件\C\VS_c\curriculum_design\main.c(3845,2): warning C4013: “gets”未定义；假设外部返回 int
+  curriculum_design.vcxproj -> C:\Users\86156\Desktop\编程文件\C\VS_c\curriculum_design\x64\Debug\curriculum_design.exe
